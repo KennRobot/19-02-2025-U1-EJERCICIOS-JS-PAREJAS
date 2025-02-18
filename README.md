@@ -4,11 +4,11 @@ Reposito de los Ejercicios de Javascript realizados en parejas en clase el dia 1
 Ejercicio 1:
     Crear una variable de nombre y que tenga un valor.                  
 Ejercicio 2:
-    Realizar operaciones basicas con 2 numeros
+    Realizar operaciones basicas con 2 numeros.
 Ejercicio 3:
-    Saber si eres mayor o menor de edad
+    Saber si eres mayor o menor de edad.
 Ejercicio 4:
-    Mostrar 10 numeros con un bucle
+    Mostrar 10 numeros con un bucle.
 Ejercicio 5:
     Funcion que mande un mensaje 
 Ejercicio 6:
